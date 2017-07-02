@@ -1,0 +1,2 @@
+# MyBloggerFramework
+For personal use
